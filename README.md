@@ -46,10 +46,10 @@ The dashboard provides insights into:
 ## 📷 Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](ScreenShots/page 1.png)
+![Overview Dashboard](ScreenShots/page%201.png)
 
 ### Product & Brand Dashboard
-![Product Dashboard](ScreenShots/page 2.png)
+![Product Dashboard](ScreenShots/page%202.png)
 
 ---
 
